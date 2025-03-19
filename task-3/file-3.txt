@@ -1,0 +1,2 @@
+this is file 3
+ adding some contents to file 3 
