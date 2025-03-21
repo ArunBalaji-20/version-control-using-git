@@ -4,11 +4,11 @@ This repository contains a handy reference for commonly used Git commands.
 
 ## Table of Contents
 
-- [Basic Commands]
-- [Branching & Merging]
-- [Remote Repositories]
-- [Stashing & Cleaning]
-- [Logs & History]
+- Basic Commands
+- Branching & Merging
+- Remote Repositories
+- Stashing & Cleaning
+- Logs & History
 
 ## Basic Commands
 
