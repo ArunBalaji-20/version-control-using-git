@@ -1,16 +1,14 @@
 # GIT COMMANDS
 
-# Git Commands
-
 This repository contains a handy reference for commonly used Git commands.
 
 ## Table of Contents
 
-- [Basic Commands](https://chatgpt.com/c/67dd044b-28cc-800f-acf4-6558c26daf73#basic-commands)
-- [Branching & Merging](https://chatgpt.com/c/67dd044b-28cc-800f-acf4-6558c26daf73#branching--merging)
-- [Remote Repositories](https://chatgpt.com/c/67dd044b-28cc-800f-acf4-6558c26daf73#remote-repositories)
-- [Stashing & Cleaning](https://chatgpt.com/c/67dd044b-28cc-800f-acf4-6558c26daf73#stashing--cleaning)
-- [Logs & History](https://chatgpt.com/c/67dd044b-28cc-800f-acf4-6558c26daf73#logs--history)
+- [Basic Commands]
+- [Branching & Merging]
+- [Remote Repositories]
+- [Stashing & Cleaning]
+- [Logs & History]
 
 ## Basic Commands
 
